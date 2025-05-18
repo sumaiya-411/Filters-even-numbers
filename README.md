@@ -2,7 +2,7 @@
 
 This Python script filters out even numbers from a list of integers (1 to 20) and visualizes them using a line chart with `matplotlib`.
 
-## 📋 Features
+## 📋 Features are
 
 - Generates numbers from 1 to 20
 - Filters only even numbers
